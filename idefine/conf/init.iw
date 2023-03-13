@@ -1,0 +1,8 @@
+MemoryLimit::==::800M
+Language::==::fa
+TimeZone::==::Asia/Tehran
+Encoding::==::UTF-8
+Protocol::==::Https
+MainName::==::tanjameh
+MainDomain::==::.com
+MainApi::==::asos2.p.rapidapi.com
